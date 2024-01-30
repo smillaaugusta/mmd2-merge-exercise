@@ -20,6 +20,7 @@ nav {
 nav a {
   display: block;
   margin: 0;
+  outline-color: red;
 }
 .scroller {
   overflow-x: scroll;
@@ -27,6 +28,7 @@ nav a {
   gap: 1rem;
   line-break: strict;
   font-size: 8rem;
+  color: blue;
 }
 @media (min-width: 600px) {
   nav {
